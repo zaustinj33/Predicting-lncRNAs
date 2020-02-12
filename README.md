@@ -1,4 +1,4 @@
-# lncRNA-locations-Python
+# predicting lncRNAs Python
 Prediction of lncRNAs in raw FASTA RNAseq reads. Based on ORF prediction and length of ORF.
 
 
